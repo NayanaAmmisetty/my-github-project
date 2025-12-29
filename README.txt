@@ -1,2 +1,1 @@
-This is my first Git repository
-Adding second line
+Line from FEATURE-A branch
