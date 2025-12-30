@@ -6,3 +6,4 @@ def add_task(task):
 def view_tasks():
     for i, task in enumerate(tasks, 1):
         print(i, task)
+print("debug")
